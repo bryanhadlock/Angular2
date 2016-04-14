@@ -1,6 +1,6 @@
  <ul id="to-do-list">
         <li *ngFor="#listItem of toDoList" [id]="listItem.id">
-            <a [style.color]="listItem.finished ? 'green': 'black' " (click)="clickItem(listItem.id)">{{listItem.name}}
+            <a [style.color]="listItem.finished ? 'green': 'black' " >{{listItem.name}}
         </a>
         </li>
   </ul>
