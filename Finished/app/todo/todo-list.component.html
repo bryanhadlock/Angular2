@@ -1,0 +1,6 @@
+ <ul id="to-do-list">
+        <li *ngFor="#listItem of toDoList" [id]="listItem.id">
+            <a [style.color]="listItem.finished ? 'green': 'black' " [routerLink]="['Item',{id: listItem.id}]">{{listItem.name}}
+        </a>
+        </li>
+  </ul>

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Go to Bed",
+        "notes": "",
+        "finished": false
+    },
+    {
+        "id": 2,
+        "name": "Brush My Teeth",
+        "notes": "",
+        "finished": true
+    },
+    {
+        "id": 3,
+        "name": "Feed the Hog",
+        "notes": "",
+        "finished": false
+    },
+     {
+        "id": 4,
+        "name": "Do my Homework",
+        "notes": "",
+        "finished": false
+    },
+    {
+        "id": 5,
+        "name": "Pay the Bills",
+        "notes": "",
+        "finished": false
+    },
+    {
+        "id": 6,
+        "name": "Wash the Car",
+        "notes": "",
+        "finished": false
+    }    
+]
